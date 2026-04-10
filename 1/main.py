@@ -1,6 +1,6 @@
 from thompson_extraction import extract_nfa
 from diagram import draw_diagram
-from utils import print_nfa_info
+from utils import print_nfa_info ,print_formal_nfa ,print_transition_table
 
 
 def main():
@@ -39,7 +39,10 @@ def main():
             print("-" * 60)
             draw_diagram(nfa)
             print("-" * 60)
-
+            print("  NFA FD:")
+            print_formal_nfa(nfa)
+            print_transition_table(nfa)
+            print("-" * 60)
         except Exception as e:
             print(f"\n  [!] Error: {e}")
             print("  Please check your regex and try again.")
