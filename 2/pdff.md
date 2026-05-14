@@ -1,9 +1,9 @@
 # Context-Free Grammar Parser and Parse Tree Visualizer
 
 ## Team Members
-- [Omar Emad Sholkamy] - [231000802]
-- [Kamel Walid Ramadan] - [231002427]
-- [mohamed gad] - [231000546]
+- Omar Emad Sholkamy - 231000802
+- Kamel Walid Ramadan - 231002427
+- mohamed gad - 231000546
 
 ---
 
