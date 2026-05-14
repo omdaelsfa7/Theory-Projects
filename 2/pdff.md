@@ -100,7 +100,7 @@ The system constructs a parse tree during parsing using tree nodes containing sy
 ![Grammar Input](screenshots/grammarInput.png)
 
 ## Test String
-![Accepted String](screenshots/TestString.png)
+![Accepted String](screenshots/testString.png)
 
 ## Parse Tree
 ![Parse Tree](screenshots/ParseTree.png)
