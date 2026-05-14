@@ -97,16 +97,16 @@ The system constructs a parse tree during parsing using tree nodes containing sy
 # Project Screenshots
 
 ## Grammar Input
-[Insert Screenshot Here]
+![Grammar Input](screenshots/grammarInput.png)
 
-## Accepted String
-[Insert Screenshot Here]
+## Test String
+![Accepted String](screenshots/TestString.png)
 
 ## Parse Tree
-[Insert Screenshot Here]
+![Parse Tree](screenshots/ParseTree.png)
 
 ## Rejected String
-[Insert Screenshot Here]
+![Rejected String](screenshots/rejected.png)
 
 ---
 
